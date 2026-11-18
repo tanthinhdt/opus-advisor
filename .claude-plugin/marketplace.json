@@ -1,0 +1,15 @@
+{
+  "name": "opus-advisor",
+  "description": "Risk-gated selective routing for Claude Code",
+  "owner": {
+    "name": "tanthinhdt"
+  },
+  "plugins": [
+    {
+      "name": "opus-advisor",
+      "source": "./plugins/opus-advisor",
+      "description": "Opus declares a solo, delegate, audit, or full route before work begins.",
+      "category": "productivity"
+    }
+  ]
+}

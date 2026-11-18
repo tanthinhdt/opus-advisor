@@ -1,0 +1,12 @@
+{
+  "name": "opus-advisor",
+  "displayName": "Opus Advisor",
+  "version": "1.0.0",
+  "description": "Claude Code selective routing: Opus / High declares solo, delegate, audit, or exceptional full delivery before work begins.",
+  "author": {
+    "name": "Daniel McAteer",
+    "url": "https://github.com/DannyMac180"
+  },
+  "license": "MIT",
+  "keywords": ["orchestration", "subagents", "routing", "code-review"]
+}
